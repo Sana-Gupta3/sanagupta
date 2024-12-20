@@ -1,25 +1,26 @@
 ---
-title: "Hello!"
-about:
+about: 
   id: me
-  template: broadside
-  image: profile.jpeg
+  template: trestles
+  image: profile.jpg
 ---
 
-:::{#me}
-
+::: {#me}
 #### Welcome to my website! I am a 1st year PhD student at the University of Connecticut in the Department of Statistics.
 
 ## Education
 
 ### University of Connecticut
+
 ##### - Ph.D. in Statistics (2024 - Present)
+
 ###### - Pfizer Statistics Fellow
 
 ### University of Connecticut
+
 ##### - B.S. in Statistics with a minor in Mathematics (2020-2024)
+
 ##### - Honors Program
+
 ##### - Nutmeg Scholar
-
 :::
-
