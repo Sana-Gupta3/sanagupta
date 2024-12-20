@@ -1,5 +1,8 @@
 ---
 title: "Projects"
+about:
+  template: solana
+  image: projects/posters.jpg
 ---
 
 ## Course Projects
@@ -10,3 +13,20 @@ title: "Projects"
 
 ## Presentations
 
+### 2024
+
+#### **UConn Statistics in Pharmaceuticals 2024**
+##### **(Poster Award Winner)**
+##### - **Project Title**: Operating characteristics of the simulated healthy participant approach in impaired clearance studies
+
+#### **The 38th New England Statistics Symposium**
+##### - **Project Title**: Adapting Multiple Imputation for Compositional Survey Data
+
+#### **UConn Spring Frontiers in Undergraduate Research**
+##### - **Project Title**: Adapting Multiple Imputation for Compositional Survey Data
+
+### 2023
+
+#### **UConn Statistics in Pharmaceuticals 2023**
+##### **(Poster Award Winner)**
+##### - **Project Title**: Association Between Gastrointestinal Effects in Rodent Toxicology Studies and Decreased Locomotor Activity in Rodent Safety Pharmacology Studies
