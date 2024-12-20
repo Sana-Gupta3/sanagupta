@@ -1,0 +1,14 @@
+---
+title: "Crosswords"
+toc: true
+---
+
+#### Welcome to my crossword collection!
+##### I've always enjoyed attempting crossword puzzles and recently I have been working on a few of my own! My crossword projects are available on this page for anyone to try :)
+
+### UConn Themed Puzzle (Completed Dec 19, 2024)
+##### This puzzle includes many clues inspired by my time at UConn as an undergrad (and now as a graduate student!). This is the first puzzle I've ever completed and I might have overlooked some typical puzzle making rules in the process. I didn't maintain perfect rotational symmetry and there are a couple two letter words which is usually looked down upon. With that in mind, I still really enjoyed this first attempt at puzzle making!
+
+[Crossword puzzle with clues (pdf)](crosswords/uconn_puzzle.pdf)
+
+[Completed puzzle with correct answers (pdf)](crosswords/UConnPuzzleAnswers.pdf)

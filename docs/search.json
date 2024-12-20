@@ -1,23 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "About.html",
+    "href": "About.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Download my CV (Last updated Dec. 2024)"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "About.html#bio",
+    "href": "About.html#bio",
+    "title": "About Me",
+    "section": "",
+    "text": "Download my CV (Last updated Dec. 2024)"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "About.html#personal-interests-and-hobbies",
+    "href": "About.html#personal-interests-and-hobbies",
+    "title": "About Me",
+    "section": "Personal Interests and Hobbies",
+    "text": "Personal Interests and Hobbies\n\nIn my free time I love to cook, take spin classes, and visit the beach in my hometown. I love trying new restaurants and I have been an Elite Yelp reviewer for two years. I also enjoy my daily routine of playing the NYT word games and I am slowly learning how to make my own crossword puzzles."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "section": "",
+    "text": "Course Projects\n\nBIST 5615 Categorical Data Analysis\n\nGithub Repository\n\n\nProject Report\n\n\n\n\nPresentations"
+  },
+  {
+    "objectID": "Crosswords.html",
+    "href": "Crosswords.html",
+    "title": "Crosswords",
+    "section": "",
+    "text": "Welcome to my crossword collection!\n\nI’ve always enjoyed attempting crossword puzzles and recently I have been working on a few of my own! My crossword projects are available on this page for anyone to try :)\n\n\n\nUConn Themed Puzzle (Completed Dec 19, 2024)\n\nThis puzzle includes many clues inspired by my time at UConn as an undergrad (and now as a graduate student!). This is the first puzzle I’ve ever completed and I might have overlooked some typical puzzle making rules in the process. I didn’t maintain perfect rotational symmetry and there are a couple two letter words which is usually looked down upon. With that in mind, I still really enjoyed this first attempt at puzzle making!\nCrossword puzzle with clues (pdf)\nCompleted puzzle with correct answers (pdf)"
   }
 ]

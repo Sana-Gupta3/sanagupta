@@ -2,8 +2,11 @@
 title: "Projects"
 ---
 
-## Project 1
+## Course Projects
 
-## Project 2
+#### BIST 5615 Categorical Data Analysis
+##### [Github Repository](https://github.com/Sana-Gupta3/bist5615)
+##### [Project Report](projects/BIST_Project_Report-2.pdf)
 
-## Project 3
+## Presentations
+
