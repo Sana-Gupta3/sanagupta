@@ -1,5 +1,5 @@
 ---
-title: "Projects and Publications"
+title: "Project"
 about:
   template: solana
   image: projects/posters.jpg
