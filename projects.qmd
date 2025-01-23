@@ -1,9 +1,12 @@
 ---
-title: "Projects"
+title: "Projects and Publications"
 about:
   template: solana
   image: projects/posters.jpg
 ---
+
+## Publications
+#### **Gupta, S.**, Purohit, V., Wang, Y. et al. Operating Characteristics of the Simulated Healthy Participant Approach in Impaired Clearance Studies. AAPS J 27, 32 (2025). https://doi.org/10.1208/s12248-025-01019-8
 
 ## Course Projects
 
