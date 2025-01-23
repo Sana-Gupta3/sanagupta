@@ -6,12 +6,14 @@ website:
   title: "Sana Gupta's Website"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - About.qmd
-      - href: projects.qmd
-        text: Projects and Publications
-      - Crosswords.qmd
+      - href: index.qmd        
+        text: Home      
+      - href: About.qmd        
+        text: About      
+      - href: projects.qmd        
+        text: Projects and Publications      
+      - href: Crosswords.qmd        
+        text: Crosswords
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/sana-gupta3/
