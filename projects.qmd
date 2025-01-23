@@ -1,35 +1,35 @@
 ---
-title: "Project"
+title: "Projects and Publications"
 about:
   template: solana
   image: projects/posters.jpg
 ---
 
 ## Publications
-#### **Gupta, S.**, Purohit, V., Wang, Y. et al. Operating Characteristics of the Simulated Healthy Participant Approach in Impaired Clearance Studies. AAPS J 27, 32 (2025). https://doi.org/10.1208/s12248-025-01019-8
+##### **Gupta, S.**, Purohit, V., Wang, Y. et al. Operating Characteristics of the Simulated Healthy Participant Approach in Impaired Clearance Studies. AAPS J 27, 32 (2025). https://doi.org/10.1208/s12248-025-01019-8
 
 ## Course Projects
 
-#### BIST 5615 Categorical Data Analysis
-##### [Github Repository](https://github.com/Sana-Gupta3/bist5615)
-##### [Project Report](projects/BIST_Project_Report-2.pdf)
+##### BIST 5615 Categorical Data Analysis
+###### [Github Repository](https://github.com/Sana-Gupta3/bist5615)
+###### [Project Report](projects/BIST_Project_Report-2.pdf)
 
 ## Presentations
 
 ### 2024
 
-#### **UConn Statistics in Pharmaceuticals 2024**
-##### **(Poster Award Winner)**
-##### - **Project Title**: Operating characteristics of the simulated healthy participant approach in impaired clearance studies
+##### **UConn Statistics in Pharmaceuticals 2024**
+###### **(Poster Award Winner)**
+###### - **Project Title**: Operating characteristics of the simulated healthy participant approach in impaired clearance studies
 
-#### **The 38th New England Statistics Symposium**
-##### - **Project Title**: Adapting Multiple Imputation for Compositional Survey Data
+##### **The 38th New England Statistics Symposium**
+###### - **Project Title**: Adapting Multiple Imputation for Compositional Survey Data
 
-#### **UConn Spring Frontiers in Undergraduate Research**
-##### - **Project Title**: Adapting Multiple Imputation for Compositional Survey Data
+##### **UConn Spring Frontiers in Undergraduate Research**
+###### - **Project Title**: Adapting Multiple Imputation for Compositional Survey Data
 
 ### 2023
 
-#### **UConn Statistics in Pharmaceuticals 2023**
-##### **(Poster Award Winner)**
-##### - **Project Title**: Association Between Gastrointestinal Effects in Rodent Toxicology Studies and Decreased Locomotor Activity in Rodent Safety Pharmacology Studies
+##### **UConn Statistics in Pharmaceuticals 2023**
+###### **(Poster Award Winner)**
+###### - **Project Title**: Association Between Gastrointestinal Effects in Rodent Toxicology Studies and Decreased Locomotor Activity in Rodent Safety Pharmacology Studies
