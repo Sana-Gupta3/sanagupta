@@ -9,7 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - About.qmd
-      - projects.qmd
+      - href: projects.qmd
+        text: Projects and Publications
       - Crosswords.qmd
     tools:
       - icon: linkedin
